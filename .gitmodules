@@ -1,0 +1,3 @@
+[submodule "flask_app2"]
+	path = flask_app2
+	url = https://github.com/iNeuronai/flask_app.git
